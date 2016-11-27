@@ -8,6 +8,7 @@ I have opened sourced this project. This is the final IT Capstone project where 
 ## About SmartCollege
 SmartCollege has four main dashboards, which are four different user types. Each user type or dashboard has its own features and privileges. All the users regardless of their type has one single entry form. The username and password is checked at the background to identify the user type so the appropriate dashboard is opened.
 
+<<<<<<< HEAD
 
 ## Demo
 To access each dashboard, use these credentials:
@@ -15,6 +16,10 @@ To access each dashboard, use these credentials:
 **Username: student
 **Password: student   
 
+=======
+## Database Model
+I included the database model of the project designed by using MySQLWorkbench. Also, if you want dummy data to check the functionality of the project, use the "Database_Query_With_Dummy_Data" file.
+>>>>>>> edabf1fc9698d4df85de4741b3aa2bdaaf53412b
 
 ## Libraries
 I'm a strong believer of not inventing the wheels if they are already invented. I used the following libraries and tech to build this project.
