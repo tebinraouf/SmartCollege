@@ -24,6 +24,7 @@ To access each dashboard, use these credentials:
 * * Username: admin
 * * Password: admin   
 
+Visit: [http://tebeen.com/SmartCollege/Login](http://tebeen.com/SmartCollege/Login)
 
 =======
 ## Database Model
