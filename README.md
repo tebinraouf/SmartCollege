@@ -2,11 +2,11 @@
 
 I have opened sourced this project. This is the final IT Capstone project where I was able to use some libraries to advance the system. The main purpose of this project is to test my skills in HTML, PHP, MySQL, CSS, Bootstrap, and the ability to use multiple libraries. The list of libraries used are listed below. 
 
-
 * The final project proposal can be found [here](/Proposal.pdf)
 * The project's final poster can be seen [here](/Project_Poster.pdf)
 
-
+## About SmartCollege
+SmartCollege has four main dashboards, which are four different user types. Each user type or dashboard has its own features and privileges. All the users regardless of their type has one single entry form. The username and password is checked at the background to identify the user type so the appropriate dashboard is opened.
 
 ## Libraries
 
@@ -28,3 +28,5 @@ I have opened sourced this project. This is the final IT Capstone project where 
 * [InputMask] (https://github.com/RobinHerbots/jquery.inputmask)
 * [ColorPicker] (https://github.com/lauren/pick-a-color)
 * [Glyphicons] (http://glyphicons.com/)
+
+
