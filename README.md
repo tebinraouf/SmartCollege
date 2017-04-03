@@ -24,7 +24,7 @@ To access each dashboard, use these credentials:
 * * Username: admin
 * * Password: admin   
 
-Visit: [http://54.175.152.225/SmartCollege/](http://54.175.152.225/SmartCollege/)
+Visit: [http://54.175.152.225/SmartCollege/Login](http://54.175.152.225/SmartCollege/Login)
 
 =======
 ## Database Model
